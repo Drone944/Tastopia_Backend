@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-0h6^d4dh2!1+u3gonxamkl3-we&9@6c8=k+p@xqhpz(zzffr)8
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['localhost', 'Tastopia.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost', 'tastopia.pythonanywhere.com']
 
 
 # Application definition
